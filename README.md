@@ -19,13 +19,13 @@ mysql -u root -p (if you are using password)
 ### Installing
 
 Go to backend folder and install dependencies
-Now go to frontend folder and install dependencies
 
 ```
 cd backend
 npm i
 ```
 
+Now go to frontend folder and install dependencies
 And move back to frontend folder
 
 ```

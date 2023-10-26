@@ -25,7 +25,6 @@ cd backend
 npm i
 ```
 
-Now go to frontend folder and install dependencies
 And move back to frontend folder
 
 ```

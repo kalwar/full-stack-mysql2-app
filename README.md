@@ -41,6 +41,14 @@ npm i
 npm start
 ```
 
+### MySQL Database connection
+If you get Unknown database error message, this means you have to first create a database in your MySQL
+```
+show databases;
+create database taskdbreact23s;
+show databases; (make sure you have this db)
+```
+
 ### Linting
 
 To check for linting issues, you can go to frontend folder

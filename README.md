@@ -14,6 +14,8 @@ What things you need to install the application and how to install them
 brew install mysql
 mysql -u root
 mysql -u root -p (if you are using password)
+
+sudo npm install -g nodemon
 ```
 
 ### Installing

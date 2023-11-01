@@ -44,7 +44,7 @@ npm start
 ```
 
 ### MySQL Database connection
-If you get "Unknown database" error message, this means you have to first create a database in your MySQL
+If you get "Unknown database" error message, this means you have to first create a database in your local MySQL shell/terminal
 ```
 show databases;
 create database taskdbreact23s;

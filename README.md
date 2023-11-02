@@ -83,3 +83,7 @@ Please use as a reference material
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kalwar/full-stack-mysql2-app/blob/main/LICENSE) file for details
+
+## Read more
+- [Use Sequelize with Node.js and MySQL](https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysql) 
+- [Why Vite is so fast](https://dev.to/takuyakikuchi/why-is-vite-so-fast-163p)

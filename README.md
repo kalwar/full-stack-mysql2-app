@@ -87,3 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Read more
 - [Use Sequelize with Node.js and MySQL](https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysql) 
 - [Why Vite is so fast](https://dev.to/takuyakikuchi/why-is-vite-so-fast-163p)
+- [MySQL Database Client GUI Tools](https://www.bytebase.com/blog/top-mysql-gui-client/)
